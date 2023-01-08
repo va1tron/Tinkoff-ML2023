@@ -7,9 +7,7 @@
 Для запуска небходимо использовать данную комманду:
 
 bash
-python3 compare.py <path_to_file1> <path_to_file2>
-
-где path_to_file1 и path_to_file2 - пути к файлам, которые необходимо сравнить.
+python3 compare.py <file1> <file2>
 
 ## Принцип работы
 
